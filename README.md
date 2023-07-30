@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <a href="https://devvictordantas.github.io/Luck-biscuit/" target = "blank">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <a href="https://devvictordantas.github.io/Luck-Biscuit/">
+  <img alt="Biscoito" src=".github/preview.png" width="100%">
   </a>
 </p>
 
